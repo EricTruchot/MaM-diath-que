@@ -1,0 +1,9 @@
+* {
+  visibility: hidden;
+  color: black;
+}
+
+p, table, tr, th, td {
+  visibility: visible;
+}
+/*# sourceMappingURL=print.css.map */
